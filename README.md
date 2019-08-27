@@ -24,5 +24,5 @@ How to run code:
 - MATLAB code: 
   1. Install MATLAB (code is compatible with 2018b version).
   2. Use any of the above code appropriately. However, the below is the details of some of the more important codes:
-    1. read_complex_binary - reads the complex binary files received by USRP (hard coded for float)
-    2. write_complex_binary - writes complex vectors in binary files which can be transmitted by the USRP.
+    - `read_complex_binary` - reads the complex binary files received by USRP (hard coded for float)
+    - `write_complex_binary` - writes complex vectors in binary files which can be transmitted by the USRP.
